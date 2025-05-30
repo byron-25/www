@@ -1,0 +1,39 @@
+/* styles.css_2 */
+body {
+font-family: Arial, sans-serif;
+background-color: #313238;
+margin: 0;
+padding: 0;
+}
+.container {
+max-width: 800px;
+margin: 50px auto;
+padding: 30px;
+background-color: #7BF333;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+}
+h1 {
+color: #004080;
+font-size: 2em;
+margin-bottom: 10px;
+}
+h2 {
+color: #0059b3;
+font-size: 1.5em;
+margin-bottom: 10px;
+}
+
+h3 {
+color: #0008e6;
+font-size: 1.2em;
+margin-bottom: 20px;
+}
+.info p {
+font-size: 1em;
+color: #333333;
+margin: 8px 0;
+}
+.info strong {
+color: #000000;
+}
